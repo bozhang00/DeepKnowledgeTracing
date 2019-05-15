@@ -1,4 +1,4 @@
-# DeepKnowledgeTracing
+# Deep Knowledge Tracing
 source code for the paper Deep Knowledge Tracing. http://stanford.edu/~cpiech/bio/papers/deepKnowledgeTracing.pdf
 
 At the moment the code doesn't include LSTM model, only RNN (I will upload LSTM when I get a chance).
